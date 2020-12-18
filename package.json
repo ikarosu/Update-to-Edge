@@ -1,0 +1,20 @@
+{
+  "name": "update-to-edge",
+  "version": "1.0.0",
+  "description": "Snackbar for update IE to Edge",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikarosu/update-to-edge.git"
+  },
+  "keywords": [
+    "IE",
+    "Edge",
+  ],
+  "author": "Clear Aki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikarosu/update-to-edge/issues"
+  },
+  "homepage": "https://github.com/ikarosu/update-to-edge#readme"
+}
